@@ -1,0 +1,16 @@
+#include <iostream>
+
+int main()
+{
+    int V;
+
+    printf("Enter V\n");
+    scanf_s ("V\n", &V);
+    
+    printf("Садок вишневий коло хати\n");
+    printf("Хрущі над вишнями гудуть\n");
+    printf("Плугатарі з плугами йдуть\n");
+    printf("Співають, ідучи, дівчата\n");
+    printf("А матері вечерять ждуть.\n");
+    return 0;
+}
